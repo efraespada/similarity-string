@@ -1,217 +1,217 @@
 # similarity-string
 
 ```
-Dummy - dummy: 60.00% [░░░░░░░░░░░░░░░          ] 
+xummy - dummy: 60.00% [░░░░░░░░░░░░░░░          ] 
 
-dUmmy - dummy: 30.00% [░░░░░░░░                 ] 
+dxmmy - dummy: 30.00% [░░░░░░░░                 ] 
 
-duMmy - dummy: 20.00% [░░░░░                    ] 
+duxmy - dummy: 20.00% [░░░░░                    ] 
 
-dumMy - dummy: 30.00% [░░░░░░░░                 ] 
+dumxy - dummy: 30.00% [░░░░░░░░                 ] 
 
-dummY - dummy: 60.00% [░░░░░░░░░░░░░░░          ] 
+dummx - dummy: 60.00% [░░░░░░░░░░░░░░░          ] 
 
-Dumming - dumming: 71.43% [░░░░░░░░░░░░░░░░░░       ] 
+xumming - dumming: 71.43% [░░░░░░░░░░░░░░░░░░       ] 
 
-dUmming - dumming: 47.62% [░░░░░░░░░░░░             ] 
+dxmming - dumming: 47.62% [░░░░░░░░░░░░             ] 
 
-duMming - dumming: 33.33% [░░░░░░░░                 ] 
+duxming - dumming: 33.33% [░░░░░░░░                 ] 
 
-dumMing - dumming: 28.57% [░░░░░░░                  ] 
+dumxing - dumming: 28.57% [░░░░░░░                  ] 
 
-dummIng - dumming: 33.33% [░░░░░░░░                 ] 
+dummxng - dumming: 33.33% [░░░░░░░░                 ] 
 
-dummiNg - dumming: 47.62% [░░░░░░░░░░░░             ] 
+dummixg - dumming: 47.62% [░░░░░░░░░░░░             ] 
 
-dumminG - dumming: 71.43% [░░░░░░░░░░░░░░░░░░       ] 
+dumminx - dumming: 71.43% [░░░░░░░░░░░░░░░░░░       ] 
 
-Dummingdummingdumming - dummingdummingdumming: 99.72% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+xummingdummingdumming - dummingdummingdumming: 99.72% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
 
-dUmmingdummingdumming - dummingdummingdumming: 99.10% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dxmmingdummingdumming - dummingdummingdumming: 99.10% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
 
-duMmingdummingdumming - dummingdummingdumming: 97.78% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
+duxmingdummingdumming - dummingdummingdumming: 97.78% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dumMingdummingdumming - dummingdummingdumming: 95.75% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
+dumxingdummingdumming - dummingdummingdumming: 95.75% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummIngdummingdumming - dummingdummingdumming: 93.05% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
+dummxngdummingdumming - dummingdummingdumming: 93.05% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummiNgdummingdumming - dummingdummingdumming: 89.80% [░░░░░░░░░░░░░░░░░░░░░░   ] 
+dummixgdummingdumming - dummingdummingdumming: 89.80% [░░░░░░░░░░░░░░░░░░░░░░   ] 
 
-dumminGdummingdumming - dummingdummingdumming: 86.22% [░░░░░░░░░░░░░░░░░░░░░░   ] 
+dumminxdummingdumming - dummingdummingdumming: 86.22% [░░░░░░░░░░░░░░░░░░░░░░   ] 
 
-dummingDummingdumming - dummingdummingdumming: 81.73% [░░░░░░░░░░░░░░░░░░░░     ] 
+dummingxummingdumming - dummingdummingdumming: 81.73% [░░░░░░░░░░░░░░░░░░░░     ] 
 
-dummingdUmmingdumming - dummingdummingdumming: 79.47% [░░░░░░░░░░░░░░░░░░░░     ] 
+dummingdxmmingdumming - dummingdummingdumming: 79.47% [░░░░░░░░░░░░░░░░░░░░     ] 
 
-dummingduMmingdumming - dummingdummingdumming: 78.04% [░░░░░░░░░░░░░░░░░░░░     ] 
+dummingduxmingdumming - dummingdummingdumming: 78.04% [░░░░░░░░░░░░░░░░░░░░     ] 
 
-dummingdumMingdumming - dummingdummingdumming: 77.55% [░░░░░░░░░░░░░░░░░░░      ] 
+dummingdumxingdumming - dummingdummingdumming: 77.55% [░░░░░░░░░░░░░░░░░░░      ] 
 
-dummingdummIngdumming - dummingdummingdumming: 78.04% [░░░░░░░░░░░░░░░░░░░░     ] 
+dummingdummxngdumming - dummingdummingdumming: 78.04% [░░░░░░░░░░░░░░░░░░░░     ] 
 
-dummingdummiNgdumming - dummingdummingdumming: 79.47% [░░░░░░░░░░░░░░░░░░░░     ] 
+dummingdummixgdumming - dummingdummingdumming: 79.47% [░░░░░░░░░░░░░░░░░░░░     ] 
 
-dummingdumminGdumming - dummingdummingdumming: 81.73% [░░░░░░░░░░░░░░░░░░░░     ] 
+dummingdumminxdumming - dummingdummingdumming: 81.73% [░░░░░░░░░░░░░░░░░░░░     ] 
 
-dummingdummingDumming - dummingdummingdumming: 86.22% [░░░░░░░░░░░░░░░░░░░░░░   ] 
+dummingdummingxumming - dummingdummingdumming: 86.22% [░░░░░░░░░░░░░░░░░░░░░░   ] 
 
-dummingdummingdUmming - dummingdummingdumming: 89.80% [░░░░░░░░░░░░░░░░░░░░░░   ] 
+dummingdummingdxmming - dummingdummingdumming: 89.80% [░░░░░░░░░░░░░░░░░░░░░░   ] 
 
-dummingdummingduMming - dummingdummingdumming: 93.05% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
+dummingdummingduxming - dummingdummingdumming: 93.05% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummingdummingdumMing - dummingdummingdumming: 95.75% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
+dummingdummingdumxing - dummingdummingdumming: 95.75% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummingdummingdummIng - dummingdummingdumming: 97.78% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
+dummingdummingdummxng - dummingdummingdumming: 97.78% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummingdummingdummiNg - dummingdummingdumming: 99.10% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummingdummixg - dummingdummingdumming: 99.10% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
 
-dummingdummingdumminG - dummingdummingdumming: 99.72% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummingdumminx - dummingdummingdumming: 99.72% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
 
-DUmmingdummingdumming - dummingdummingdumming: 99.10% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+xxmmingdummingdumming - dummingdummingdumming: 99.10% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
 
-dUMmingdummingdumming - dummingdummingdumming: 98.08% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dxxmingdummingdumming - dummingdummingdumming: 98.08% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
 
-duMMingdummingdumming - dummingdummingdumming: 96.31% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
+duxxingdummingdumming - dummingdummingdumming: 96.31% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dumMIngdummingdumming - dummingdummingdumming: 93.79% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
+dumxxngdummingdumming - dummingdummingdumming: 93.79% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummINgdummingdumming - dummingdummingdumming: 90.63% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
+dummxxgdummingdumming - dummingdummingdumming: 90.63% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummiNGdummingdumming - dummingdummingdumming: 86.99% [░░░░░░░░░░░░░░░░░░░░░░   ] 
+dummixxdummingdumming - dummingdummingdumming: 86.99% [░░░░░░░░░░░░░░░░░░░░░░   ] 
 
-dumminGDummingdumming - dummingdummingdumming: 81.72% [░░░░░░░░░░░░░░░░░░░░     ] 
+dumminxxummingdumming - dummingdummingdumming: 81.72% [░░░░░░░░░░░░░░░░░░░░     ] 
 
-dummingDUmmingdumming - dummingdummingdumming: 77.40% [░░░░░░░░░░░░░░░░░░░      ] 
+dummingxxmmingdumming - dummingdummingdumming: 77.40% [░░░░░░░░░░░░░░░░░░░      ] 
 
-dummingdUMmingdumming - dummingdummingdumming: 75.35% [░░░░░░░░░░░░░░░░░░░      ] 
+dummingdxxmingdumming - dummingdummingdumming: 75.35% [░░░░░░░░░░░░░░░░░░░      ] 
 
-dummingduMMingdumming - dummingdummingdumming: 74.29% [░░░░░░░░░░░░░░░░░░░      ] 
+dummingduxxingdumming - dummingdummingdumming: 74.29% [░░░░░░░░░░░░░░░░░░░      ] 
 
-dummingdumMIngdumming - dummingdummingdumming: 74.29% [░░░░░░░░░░░░░░░░░░░      ] 
+dummingdumxxngdumming - dummingdummingdumming: 74.29% [░░░░░░░░░░░░░░░░░░░      ] 
 
-dummingdummINgdumming - dummingdummingdumming: 75.35% [░░░░░░░░░░░░░░░░░░░      ] 
+dummingdummxxgdumming - dummingdummingdumming: 75.35% [░░░░░░░░░░░░░░░░░░░      ] 
 
-dummingdummiNGdumming - dummingdummingdumming: 77.40% [░░░░░░░░░░░░░░░░░░░      ] 
+dummingdummixxdumming - dummingdummingdumming: 77.40% [░░░░░░░░░░░░░░░░░░░      ] 
 
-dummingdumminGDumming - dummingdummingdumming: 81.72% [░░░░░░░░░░░░░░░░░░░░     ] 
+dummingdumminxxumming - dummingdummingdumming: 81.72% [░░░░░░░░░░░░░░░░░░░░     ] 
 
-dummingdummingDUmming - dummingdummingdumming: 86.99% [░░░░░░░░░░░░░░░░░░░░░░   ] 
+dummingdummingxxmming - dummingdummingdumming: 86.99% [░░░░░░░░░░░░░░░░░░░░░░   ] 
 
-dummingdummingdUMming - dummingdummingdumming: 90.63% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
+dummingdummingdxxming - dummingdummingdumming: 90.63% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummingdummingduMMing - dummingdummingdumming: 93.79% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
+dummingdummingduxxing - dummingdummingdumming: 93.79% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummingdummingdumMIng - dummingdummingdumming: 96.31% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
+dummingdummingdumxxng - dummingdummingdumming: 96.31% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummingdummingdummINg - dummingdummingdumming: 98.08% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummingdummxxg - dummingdummingdumming: 98.08% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
 
-dummingdummingdummiNG - dummingdummingdumming: 99.10% [░░░░░░░░░░░░░░░░░░░░░░░░░]
+dummingdummingdummixx - dummingdummingdumming: 99.10% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
 ```
 #### Levenshtein comparision
 ```
-Dummy - dummy: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+xummy - dummy: 80.00% [░░░░░░░░░░░░░░░░░░░░     ] 
 
-dUmmy - dummy: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dxmmy - dummy: 80.00% [░░░░░░░░░░░░░░░░░░░░     ] 
 
-duMmy - dummy: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+duxmy - dummy: 80.00% [░░░░░░░░░░░░░░░░░░░░     ] 
 
-dumMy - dummy: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dumxy - dummy: 80.00% [░░░░░░░░░░░░░░░░░░░░     ] 
 
-dummY - dummy: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummx - dummy: 80.00% [░░░░░░░░░░░░░░░░░░░░     ] 
 
-Dumming - dumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+xumming - dumming: 85.71% [░░░░░░░░░░░░░░░░░░░░░    ] 
 
-dUmming - dumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dxmming - dumming: 85.71% [░░░░░░░░░░░░░░░░░░░░░    ] 
 
-duMming - dumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+duxming - dumming: 85.71% [░░░░░░░░░░░░░░░░░░░░░    ] 
 
-dumMing - dumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dumxing - dumming: 85.71% [░░░░░░░░░░░░░░░░░░░░░    ] 
 
-dummIng - dumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummxng - dumming: 85.71% [░░░░░░░░░░░░░░░░░░░░░    ] 
 
-dummiNg - dumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummixg - dumming: 85.71% [░░░░░░░░░░░░░░░░░░░░░    ] 
 
-dumminG - dumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dumminx - dumming: 85.71% [░░░░░░░░░░░░░░░░░░░░░    ] 
 
-Dummingdummingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+xummingdummingdumming - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dUmmingdummingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dxmmingdummingdumming - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-duMmingdummingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+duxmingdummingdumming - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dumMingdummingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dumxingdummingdumming - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummIngdummingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummxngdummingdumming - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummiNgdummingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummixgdummingdumming - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dumminGdummingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dumminxdummingdumming - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummingDummingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingxummingdumming - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummingdUmmingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdxmmingdumming - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummingduMmingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingduxmingdumming - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummingdumMingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdumxingdumming - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummingdummIngdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummxngdumming - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummingdummiNgdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummixgdumming - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummingdumminGdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdumminxdumming - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummingdummingDumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummingxumming - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummingdummingdUmming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummingdxmming - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummingdummingduMming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummingduxming - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummingdummingdumMing - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummingdumxing - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummingdummingdummIng - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummingdummxng - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummingdummingdummiNg - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummingdummixg - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-dummingdummingdumminG - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummingdumminx - dummingdummingdumming: 95.24% [░░░░░░░░░░░░░░░░░░░░░░░░ ] 
 
-DUmmingdummingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+xxmmingdummingdumming - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dUMmingdummingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dxxmingdummingdumming - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-duMMingdummingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+duxxingdummingdumming - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dumMIngdummingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dumxxngdummingdumming - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummINgdummingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummxxgdummingdumming - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummiNGdummingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummixxdummingdumming - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dumminGDummingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dumminxxummingdumming - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummingDUmmingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingxxmmingdumming - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummingdUMmingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdxxmingdumming - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummingduMMingdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingduxxingdumming - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummingdumMIngdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdumxxngdumming - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummingdummINgdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummxxgdumming - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummingdummiNGdumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummixxdumming - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummingdumminGDumming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdumminxxumming - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummingdummingDUmming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummingxxmming - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummingdummingdUMming - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummingdxxming - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummingdummingduMMing - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummingduxxing - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummingdummingdumMIng - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummingdumxxng - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummingdummingdummINg - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummingdummxxg - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 
-dummingdummingdummiNG - dummingdummingdumming: 100.00% [░░░░░░░░░░░░░░░░░░░░░░░░░] 
+dummingdummingdummixx - dummingdummingdumming: 90.48% [░░░░░░░░░░░░░░░░░░░░░░░  ] 
 ``` 
