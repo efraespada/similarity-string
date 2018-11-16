@@ -4,7 +4,7 @@
   "description": "String's percent similarity",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test && mocha test_levenshtein"
+    "test": "mocha test"
   },
   "repository": {
     "type": "git",
