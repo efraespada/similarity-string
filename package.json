@@ -4,7 +4,7 @@
   "description": "String's percent similarity",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test"
+    "test": "mocha test && mocha test_levenshtein"
   },
   "repository": {
     "type": "git",
@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/efraespada/similarity-string/issues"
   },
-  "homepage": "https://github.com/efraespada/similarity-string#readme"
+  "homepage": "https://github.com/efraespada/similarity-string#readme",
+  "devDependencies": {
+    "similarity": "^1.1.1"
+  }
 }
