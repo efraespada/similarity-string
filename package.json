@@ -1,0 +1,32 @@
+{
+  "name": "similarity-string",
+  "version": "1.0.0",
+  "description": "String's percent similarity",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efraespada/similarity-string.git"
+  },
+  "keywords": [
+    "string",
+    "strings",
+    "percent",
+    "similarity",
+    "relation",
+    "distance",
+    "compare",
+    "comparison",
+    "match",
+    "difference",
+    "diff"
+  ],
+  "author": "efraespada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efraespada/similarity-string/issues"
+  },
+  "homepage": "https://github.com/efraespada/similarity-string#readme"
+}
