@@ -2,6 +2,7 @@
 # similarity-string 
 
 [![Dependency Status][david-badge]][david]
+[![DevDependency Status][david-badge-dev]][david-dev]
 [![Build Status][travis-badge]][travis]
 
 similarity-string compares strings focusing on common char sequences:
@@ -61,3 +62,5 @@ dumminx - dumming: 85.71% [░░░░░░░░░░░░░░░░░�
 [david-badge]: https://david-dm.org/efraespada/similarity-string.svg
 [travis]: https://travis-ci.org/efraespada/similarity-string
 [travis-badge]: https://travis-ci.org/efraespada/similarity-string.svg?branch=master
+[david-dev]: https://david-dm.org/efraespada/similarity-string?type=dev
+[david-badge-dev]: https://david-dm.org/efraespada/similarity-string/dev-status.svg
