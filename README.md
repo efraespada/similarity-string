@@ -6,7 +6,16 @@
 [![Dependency Status][david-badge]][david]
 [![DevDependency Status][david-badge-dev]][david-dev]
 
-similarity-string compares strings focusing on common char sequences:
+similarity-string compares strings **focusing on common char sets**. 
+
+
+#### Why
+
+
+> The Levenshtein distance is a string metric for measuring the difference between two sequences ([Wikipedia](https://en.wikipedia.org/wiki/Levenshtein_distance))
+
+
+
 ```
 xummy - dummy: 60.00% [░░░░░░░░░░░░░░░          ] 
 
