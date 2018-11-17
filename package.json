@@ -21,7 +21,9 @@
     "comparison",
     "match",
     "difference",
-    "diff"
+    "diff",
+    "levenshtein",
+    "leven"
   ],
   "author": "efraespada",
   "license": "MIT",
