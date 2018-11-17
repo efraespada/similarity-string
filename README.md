@@ -16,10 +16,11 @@ String.similarity = require("similarity-string");
 let percent = String.similarity("xummy", "dummy");
 ```
 ### Reason
-I recently tested the Levenshtein distance for matching poblation names and I notice it wasn't enought.
+I recently tested the Levenshtein distance for matching poblation names with a given value and I notice it wasn't enought.
+
 > The Levenshtein distance is a string metric for measuring the difference between two sequences ([Wikipedia](https://en.wikipedia.org/wiki/Levenshtein_distance))
 
-Comparing a value with a set of names the Levenshtein distance returned the same distance for multiple combinations.
+Comparing a value with a set of names the Levenshtein distance returned the same distance for multiple names.
 I got better results by comparing common char sequences:
 ```
 xummy - dummy: 60.00% [░░░░░░░░░░░░░░░          ] (leven: 1)
