@@ -9,62 +9,50 @@
 similarity-string compares strings **focusing on common char sets**. 
 
 
-#### Why
-
-
+### Reason
+I recently tested the Levenshtein distance for matching poblation names and I notice that it wasn't enought.
 > The Levenshtein distance is a string metric for measuring the difference between two sequences ([Wikipedia](https://en.wikipedia.org/wiki/Levenshtein_distance))
 
-
+Comparing a value with a set of names the Levenshtein distance returned the same distance for multiple combinations.
+I got better results by comparing common char sequences:
+```
+xummy - dummy: 60.00% [░░░░░░░░░░░░░░░          ] (leven: 1)
+dxmmy - dummy: 30.00% [░░░░░░░░                 ] (leven: 1)
+```
+### Test
+Clone the repository and run:
+```bash
+npm install
+npm test
+```
 
 ```
 xummy - dummy: 60.00% [░░░░░░░░░░░░░░░          ] 
-
 dxmmy - dummy: 30.00% [░░░░░░░░                 ] 
-
 duxmy - dummy: 20.00% [░░░░░                    ] 
-
 dumxy - dummy: 30.00% [░░░░░░░░                 ] 
-
 dummx - dummy: 60.00% [░░░░░░░░░░░░░░░          ] 
-
 xumming - dumming: 71.43% [░░░░░░░░░░░░░░░░░░       ] 
-
 dxmming - dumming: 47.62% [░░░░░░░░░░░░             ] 
-
 duxming - dumming: 33.33% [░░░░░░░░                 ] 
-
 dumxing - dumming: 28.57% [░░░░░░░                  ] 
-
 dummxng - dumming: 33.33% [░░░░░░░░                 ] 
-
 dummixg - dumming: 47.62% [░░░░░░░░░░░░             ] 
-
 dumminx - dumming: 71.43% [░░░░░░░░░░░░░░░░░░       ] 
 ```
 #### Levenshtein comparision
 ```
 xummy - dummy: 80.00% [░░░░░░░░░░░░░░░░░░░░     ] 
-
 dxmmy - dummy: 80.00% [░░░░░░░░░░░░░░░░░░░░     ] 
-
 duxmy - dummy: 80.00% [░░░░░░░░░░░░░░░░░░░░     ] 
-
 dumxy - dummy: 80.00% [░░░░░░░░░░░░░░░░░░░░     ] 
-
 dummx - dummy: 80.00% [░░░░░░░░░░░░░░░░░░░░     ] 
-
 xumming - dumming: 85.71% [░░░░░░░░░░░░░░░░░░░░░    ] 
-
 dxmming - dumming: 85.71% [░░░░░░░░░░░░░░░░░░░░░    ] 
-
 duxming - dumming: 85.71% [░░░░░░░░░░░░░░░░░░░░░    ] 
-
 dumxing - dumming: 85.71% [░░░░░░░░░░░░░░░░░░░░░    ] 
-
 dummxng - dumming: 85.71% [░░░░░░░░░░░░░░░░░░░░░    ] 
-
 dummixg - dumming: 85.71% [░░░░░░░░░░░░░░░░░░░░░    ] 
-
 dumminx - dumming: 85.71% [░░░░░░░░░░░░░░░░░░░░░    ] 
 ``` 
 
