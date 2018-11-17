@@ -1,7 +1,6 @@
 
 # similarity-string 
 
-[![npm Version][npm-badge]][npm]
 [![Dependency Status][david-badge]][david]
 [![Build Status][travis-badge]][travis]
 
@@ -57,3 +56,9 @@ dummixg - dumming: 85.71% [░░░░░░░░░░░░░░░░░�
 
 dumminx - dumming: 85.71% [░░░░░░░░░░░░░░░░░░░░░    ] 
 ``` 
+
+[david]: https://david-dm.org/efraespada/similarity-string
+[david-badge]: https://david-dm.org/efraespada/similarity-string
+[travis]: https://travis-ci.org/efraespada/similarity-string
+[travis-badge]: ttps://travis-ci.org/efraespada/similarity-string.svg?branch=master
+[LICENSE]: https://github.com/yahoo/serialize-javascript/blob/master/LICENSE
