@@ -1,4 +1,5 @@
-# similarity-string
+
+# similarity-string [![Build Status](https://travis-ci.org/efraespada/similarity-string.svg?branch=master)](https://travis-ci.org/efraespada/similarity-string)
 
 similarity-string compares strings focusing on common char sequences:
 ```
