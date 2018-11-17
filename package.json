@@ -30,6 +30,8 @@
   },
   "homepage": "https://github.com/efraespada/similarity-string#readme",
   "devDependencies": {
+    "leven": "^2.1.0",
+    "logjsx": "0.0.2",
     "similarity": "^1.1.1"
   }
 }
