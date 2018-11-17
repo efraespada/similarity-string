@@ -7,10 +7,16 @@
 [![DevDependency Status][david-badge-dev]][david-dev]
 
 similarity-string compares strings **focusing on common char sets**. 
-
-
+```bash
+npm install similarity-string --save
+```
+Implement it:
+```node
+String.similarity = require("similarity-string");
+let percent = String.similarity("xummy", "dummy");
+```
 ### Reason
-I recently tested the Levenshtein distance for matching poblation names and I notice that it wasn't enought.
+I recently tested the Levenshtein distance for matching poblation names and I notice it wasn't enought.
 > The Levenshtein distance is a string metric for measuring the difference between two sequences ([Wikipedia](https://en.wikipedia.org/wiki/Levenshtein_distance))
 
 Comparing a value with a set of names the Levenshtein distance returned the same distance for multiple combinations.
