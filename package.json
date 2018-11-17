@@ -4,7 +4,7 @@
   "description": "String's percent similarity",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test.js"
+    "test": "node_modules/mocha/bin/mocha test.js"
   },
   "repository": {
     "type": "git",
@@ -32,6 +32,7 @@
   "devDependencies": {
     "leven": "^2.1.0",
     "logjsx": "0.0.2",
+    "mocha": "^5.2.0",
     "similarity": "^1.1.1"
   }
 }
