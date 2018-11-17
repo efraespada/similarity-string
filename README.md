@@ -58,7 +58,6 @@ dumminx - dumming: 85.71% [░░░░░░░░░░░░░░░░░�
 ``` 
 
 [david]: https://david-dm.org/efraespada/similarity-string
-[david-badge]: https://david-dm.org/efraespada/similarity-string
+[david-badge]: https://david-dm.org/efraespada/similarity-string.svg
 [travis]: https://travis-ci.org/efraespada/similarity-string
-[travis-badge]: ttps://travis-ci.org/efraespada/similarity-string.svg?branch=master
-[LICENSE]: https://github.com/yahoo/serialize-javascript/blob/master/LICENSE
+[travis-badge]: https://travis-ci.org/efraespada/similarity-string.svg?branch=master
