@@ -1,6 +1,6 @@
 {
   "name": "similarity-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "String's percent similarity",
   "main": "index.js",
   "scripts": {
