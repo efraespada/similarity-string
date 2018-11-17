@@ -24,7 +24,7 @@
     "diff"
   ],
   "author": "efraespada",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/efraespada/similarity-string/issues"
   },
